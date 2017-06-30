@@ -4,6 +4,10 @@
 
 The following RE tools are organized by target platform.
 
+### Multi-platform
+
+* [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - File detection engine that can detect and identify various packers and crypters.
+
 ### OS X
 
 * [MachOView](https://github.com/gdbinit/MachOView) - Viewer for Mach-O binary structure
