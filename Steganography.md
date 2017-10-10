@@ -4,3 +4,4 @@ Steganography is the art of hiding secret data inside other, plainly visible dat
 
 * [Steghide](http://steghide.sourceforge.net) - Steghide is a steganography program that is able to hide data in various kinds of image- and audio-files. The color- respectivly sample-frequencies are not changed thus making the embedding resistant against first-order statistical tests.
 * [zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP
+* [exiftool](https://sno.phy.queensu.ca/~phil/exiftool/) - Not strictly a stego tool, but useful to view EXIF data for clues.
