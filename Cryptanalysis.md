@@ -7,3 +7,5 @@
 * [EverCrack](http://evercrack.sourceforge.net/) - EverCrack performs cryptanalysis on mono-alphabetic substitution and transposition ciphers. Windows, Linux, and online versions.
 
 * [Ganzua](http://ganzua.sourceforge.net/en/) - Ganzúa is a cryptanalysis tool for monoalphabetic and polyalphabetic ciphers that can work with almost any set of characters. Cross-platform (Java).
+
+* [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/) - Classical cipher solving program. Windows-only.
