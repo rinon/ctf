@@ -7,3 +7,4 @@ Steganography is the art of hiding secret data inside other, plainly visible dat
 * [exiftool](https://sno.phy.queensu.ca/~phil/exiftool/) - Not strictly a stego tool, but useful to view EXIF data for clues.
 * [binwalk](https://github.com/devttys0/binwalk) - Analyze binaries for embedded data streams.
 * [foremost](http://foremost.sourceforge.net/) - Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving.
+* [p=np stego](https://pequalsnp-team.github.io/cheatsheet/steganography-101) - great walkthrough of stego techniques
