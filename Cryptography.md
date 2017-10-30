@@ -18,4 +18,6 @@
 
 * [featherduster](https://github.com/nccgroup/featherduster) - Modular framework for cryptanalysis of modern cryptographic implementations.
 
+* [HashPump](https://github.com/bwall/HashPump) - A tool to exploit the hash length extension attack in various hashing algorithms.
+
 CyberChef, Cryptool also do some modern crypto.
