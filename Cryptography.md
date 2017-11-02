@@ -12,6 +12,8 @@
 
 * [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/) - Classical cipher solving program. Windows-only.
 
+* [quipquip](https://quipqiup.com/) - Web-based automatic substitution cipher cracker.
+
 ## Modern
 
 * [ciphr](https://github.com/frohoff/ciphr) - a CLI tool for performing and composing encoding, decoding, encryption, decryption, hashing, and other various cryptographic operations on streams of data from the command line.
